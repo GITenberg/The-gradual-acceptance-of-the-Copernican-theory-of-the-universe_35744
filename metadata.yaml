@@ -1,0 +1,29 @@
+_repo: The-gradual-acceptance-of-the-Copernican-theory-of-the-universe_35744
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stimson, Dorothy
+    birthdate: 1890
+    deathdate: 1988
+    gutenberg_agent_id: '37869'
+    url: http://www.gutenberg.org/2009/agents/37869
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2011-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Copernicus, Nicolaus, 1473-1543'
+- !lcsh 'Solar system'
+- !lcc 'QB'
+- !lcsh 'Astronomy -- History'
+title: The gradual acceptance of the Copernican theory of the universe
+url: http://www.gutenberg.org/ebooks/35744
